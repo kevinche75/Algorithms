@@ -50,7 +50,7 @@ int main() {
 
     int m, k, today = 0;
     cin >> m >> k;
-
+    
     int day;
 
     for (int i = 0; i < k; i++) {
